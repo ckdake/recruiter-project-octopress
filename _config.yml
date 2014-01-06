@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://recruiterproject.org/
+title: The Recruiter Project
+subtitle: Making Recruiting Make Sense. Sensibly.
+author: The Recruiter Project
 simple_search: http://google.com/search
 description:
 
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/github
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-66854-17
 
 # Facebook Like
 facebook_like: false
