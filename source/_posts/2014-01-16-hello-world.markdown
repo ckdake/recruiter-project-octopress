@@ -24,7 +24,7 @@ Some things we've heard from Recruiters about Nerds:
 
 We'll be talking with Recruiters, Nerds, CEOs, VPs, Managers, etc, and posting semi-regular content to help everyone out. 
 
-So fire up your RSS reader and subscribe, and send an e-mail over to ckdake@ckdake.com and andy@andylindeman.com with any questions you'd like answered!
+So fire up your RSS reader and subscribe, and send an e-mail over to ckdake@ckdake.com and <a href="mailto:&#097;&#110;&#100;&#121;&#064;&#097;&#110;&#100;&#121;&#108;&#105;&#110;&#100;&#101;&#109;&#097;&#110;&#046;&#099;&#111;&#109;">&#097;&#110;&#100;&#121;&#064;&#097;&#110;&#100;&#121;&#108;&#105;&#110;&#100;&#101;&#109;&#097;&#110;&#046;&#099;&#111;&#109;</a> with any questions you'd like answered!
 
 Thanks for stopping by!
 
