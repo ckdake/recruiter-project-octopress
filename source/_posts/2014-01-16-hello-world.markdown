@@ -5,7 +5,8 @@ date: 2014-01-16 19:48:32 -0500
 comments: true
 categories: 
 ---
-# Welcome to The Recruiter Project!
+## Welcome to The Recruiter Project!
+
 We're here to clear a few things up and get a dialogue opened up so that the world of technical recruiting (on both sides) becomes a better place.  If you're someone with high-demand technology skills (e.g. a Ruby on Rails Software Developer) or you're recruiting to fill a position in one of these fields, you already know that things are a little less than ideal.  
 
 Some things we've heard from Nerds about Recruiters:
