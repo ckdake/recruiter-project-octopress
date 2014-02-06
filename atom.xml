@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Recruiter Project]]></title>
+  <link href="http://recruiterproject.org/atom.xml" rel="self"/>
+  <link href="http://recruiterproject.org/"/>
+  <updated>2014-02-05T23:42:31-05:00</updated>
+  <id>http://recruiterproject.org/</id>
+  <author>
+    <name><![CDATA[The Recruiter Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://recruiterproject.org/blog/2014/01/16/hello-world/"/>
+    <updated>2014-01-16T19:48:32-05:00</updated>
+    <id>http://recruiterproject.org/blog/2014/01/16/hello-world</id>
+    <content type="html"><![CDATA[<h2>Welcome to The Recruiter Project!</h2>
+
+<p>We&rsquo;re here to clear a few things up and get a dialogue opened up so that the world of technical recruiting (on both sides) becomes a better place.  If you&rsquo;re someone with high-demand technology skills (e.g. a Ruby on Rails Software Developer) or you&rsquo;re recruiting to fill a position in one of these fields, you already know that things are a little less than ideal.</p>
+
+<p>Some things we&rsquo;ve heard from Nerds about Recruiters:</p>
+
+<ul>
+<li>Why are they calling me? I hate phone calls.</li>
+<li>Why would I ever talk to a recuiter? I like my job just fine.</li>
+<li>Why can&rsquo;t recruiters give me the information I actually care about?</li>
+<li>I hate recruiters.</li>
+</ul>
+
+
+<p>Some things we&rsquo;ve heard from Recruiters about Nerds:</p>
+
+<ul>
+<li>Candidates rarely respond to me, even when I&rsquo;ve done my homework.</li>
+<li>I&rsquo;m not a Nerd so I have no idea what questions to ask.</li>
+<li>What do Nerds want to hear about potential opportunities?</li>
+<li>My job is to connect the right people with the right jobs, not trick anybody.</li>
+</ul>
+
+
+<p>We&rsquo;ll be talking with Recruiters, Nerds, CEOs, VPs, Managers, etc, and posting semi-regular content to help everyone out.</p>
+
+<p>So fire up your RSS reader and subscribe, and send an e-mail over to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#99;&#107;&#100;&#x61;&#107;&#101;&#x40;&#x63;&#107;&#x64;&#x61;&#107;&#101;&#x2e;&#x63;&#111;&#x6d;">&#x63;&#x6b;&#100;&#x61;&#x6b;&#101;&#64;&#99;&#107;&#x64;&#x61;&#107;&#101;&#x2e;&#99;&#111;&#x6d;</a> and <a href="mailto:&#097;&#110;&#100;&#121;&#064;&#097;&#110;&#100;&#121;&#108;&#105;&#110;&#100;&#101;&#109;&#097;&#110;&#046;&#099;&#111;&#109;">&#097;&#110;&#100;&#121;&#064;&#097;&#110;&#100;&#121;&#108;&#105;&#110;&#100;&#101;&#109;&#097;&#110;&#046;&#099;&#111;&#109;</a> with any questions you&rsquo;d like answered!</p>
+
+<p>Thanks for stopping by!</p>
+
+<p>Chris &amp; Andy</p>
+]]></content>
+  </entry>
+  
+</feed>

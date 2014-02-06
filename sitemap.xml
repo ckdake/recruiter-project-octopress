@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://recruiterproject.org/blog/2014/01/16/hello-world/</loc>
+        <lastmod>2014-01-18T18:05:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://recruiterproject.org/blog/archives/</loc>
+        <lastmod>2014-01-18T18:05:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://recruiterproject.org/</loc>
+        <lastmod>2014-01-18T18:05:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://recruiterproject.org/robots.txt</loc>
+        <lastmod>2014-01-16T18:20:37-05:00</lastmod>
+    </url>
+</urlset>
