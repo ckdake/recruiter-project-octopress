@@ -388,8 +388,8 @@ def blog_url(user, project)
     "http://#{IO.read('source/CNAME').strip}"
   else
     "http://#{user}.github.io"
+    url += "/#{project}" unless project == ''
   end
-  url += "/#{project}" unless project == ''
   url
 end
 
