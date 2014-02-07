@@ -3,6 +3,8 @@ layout: post
 title: "Hello World"
 date: 2014-02-06 18:41:32 -0500
 comments: true
+sharing: true
+author: ckdake
 categories: 
 ---
 ## Welcome to The Recruiter Project!
