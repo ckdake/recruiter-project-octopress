@@ -16,7 +16,7 @@ Below, I've picked a few of the really important high-level things that will inc
 
 ## Use The Right Medium
 
-### Don't call. Don't InMail.
+### Don't call.
 
 "<a href="http://en.wikipedia.org/wiki/Flow_(psychology)">Flow</a>" is a very real thing, and developers are most productive (and happiest) when they are in a state of Flow. There is no way of scheduling Flow, and once interrupted, getting back to this state can take a really long time. Every developer I know keeps their cell phone on them, and if you call them, it is 100% guaranteed to be an interruption. Your phone call is guaranteed to interrupt the person you are calling. Because it's not a phone call they 'need' to get, you are going to be connected to someone that already thinks negatively of you, and it's downhill from there.
 
