@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: For | The Recruiter Project]]></title>
-  <link href="http://recruiterproject.org/blog/categories/for/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ForRecruiters | The Recruiter Project]]></title>
+  <link href="http://recruiterproject.org/blog/categories/forrecruiters/atom.xml" rel="self"/>
   <link href="http://recruiterproject.org/"/>
-  <updated>2014-02-10T12:27:31-05:00</updated>
+  <updated>2014-02-10T12:54:13-05:00</updated>
   <id>http://recruiterproject.org/</id>
   <author>
     <name><![CDATA[The Recruiter Project]]></name>
