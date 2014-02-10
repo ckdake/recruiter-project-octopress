@@ -3,7 +3,7 @@ layout: post
 title: "Making First Contact"
 date: 2014-02-10 11:21:29 -0500
 comments: true
-categories: "For Recruiters"
+categories: ForRecruiters
 sharing: true
 author: ckdake
 ---
