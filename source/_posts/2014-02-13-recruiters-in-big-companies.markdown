@@ -9,7 +9,7 @@ author: ckdake
 ---
 
 
-I’ve been in Californa this week for [Strata](http://strataconf.com/strata2014), and I’ve gotten a chance to talk to a handful of recruiters about things from their perspective. This post is about recruiters that work full-time for big companies, I'll get to those that work for Agencies and small companies in future posts. First up are a few examples of what I think are great "[First Contact](http://recruiterproject.org/blog/2014/02/10/making-first-contact/)" e-mails.
+I’ve been in California this week for [Strata](http://strataconf.com/strata2014), and I’ve gotten a chance to talk to a handful of recruiters about things from their perspective. This post is about recruiters that work full-time for big companies, I'll get to those that work for Agencies and small companies in future posts. First up are a few examples of what I think are great "[First Contact](http://recruiterproject.org/blog/2014/02/10/making-first-contact/)" e-mails.
 
 Before Strata, I got a LinkedIn message from a recruiter at Amazon that I'd give a 9/10 to.  Nothing particularily targeted to me other than the fact that I'm going to a conference, but that counts!
 
