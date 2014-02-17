@@ -11,13 +11,13 @@ author: ckdake
 
 I’ve been in California this week for [Strata](http://strataconf.com/strata2014), and I’ve gotten a chance to talk to a handful of recruiters about things from their perspective. This post is about recruiters that work full-time for big companies, I'll get to those that work for Agencies and small companies in future posts. First up are a few examples of what I think are great "[First Contact](http://recruiterproject.org/blog/2014/02/10/making-first-contact/)" e-mails.
 
-Before Strata, I got a LinkedIn message from a recruiter at Amazon that I'd give a 9/10 to.  Nothing particularily targeted to me other than the fact that I'm going to a conference, but that counts!
+Before Strata, I got a LinkedIn message from a recruiter at Amazon that I'd give a 9/10 to.  Nothing particularly targeted to me other than the fact that I'm going to a conference, but that counts!
 
 >Happy New Year from Amazon! I’m writing to let you know that if you’re planning on attending the Strata Conference in Santa Clara, Amazon will be speaking at the event. We’ll also be setting up informational interviews to discuss our exciting career opportunities and it would be great to connect with you at the conference. I’ve included a link to some of our job descriptions to give you an idea of what we’re working on and we’d love to see you there!
 >
 >If you’re interested in learning more, please contact me and we can arrange a time to chat one-on-one. Be sure to stop by and say hello at booth 729!
 
-The link she included was to a "Job Posting" entitled: "Come Visit Amazon at the Strata Conference" which I'll paste here incase they "fill" that position:
+The link she included was to a "Job Posting" entitled: "Come Visit Amazon at the Strata Conference" which I'll paste here in case they "fill" that position:
 
 > Job Description: Our mission is to be Earth’s most customer-centric company and we’re looking for Earth’s most talented Data Scientists, Software Developers, and Technical Program Managers to relentlessly pursue this mission with us.
 >
@@ -51,7 +51,7 @@ The recruiting terminology for sending out these 'cold calls' is 'Sourcing' and 
 
 As for recruiters that don't work at agencies (like the ones I talked to this week), their salary isn't directly tied to head counts and hire salaries. Most of them don't even get bonuses for hiring tons of people and/or expensive/cheap people. They do have goals for positions they are trying to fill or number of hires in general, but they aren't incentivized to place you somewhere where you would be a poor fit.
 
-These recruiters love their jobs and love making the perfect connection between a 'candidate' (thats you!) and the right 'opprtunity' (your sweet new gig). Some of them got their start with Liberal Arts degrees, while some did something technical.  Some have technical work backgrounds too, while others have experience like coordinating volunteer efforts at non-profits.  All of them love working with people, traveling, managing events, and connecting people to great jobs.
+These recruiters love their jobs and love making the perfect connection between a 'candidate' (thats you!) and the right 'opportunity' (your sweet new gig). Some of them got their start with Liberal Arts degrees, while some did something technical.  Some have technical work backgrounds too, while others have experience like coordinating volunteer efforts at non-profits.  All of them love working with people, traveling, managing events, and connecting people to great jobs.
 
 Companies like Google and Amazon have very high standards for hiring (and even have specific processes in place to continue to raise the bar for who they hire), and these standards apply to the recruiters they hire too. They can quickly understand who you are, what you do, and what might be a good job for you at their companies, and direct you directly to the people you'd need to talk with to find out for sure: specific managers, directors, VPs, engineers, etc.
 
