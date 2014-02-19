@@ -17,7 +17,7 @@ Sara Chipps wrote a great blog post: [Recruiting: There is no such thing as a de
 
 Go read that entire blog post, it's short and worth it.
 
-The problem is the way recruiting is done, not anything with the pool of available people. Put effort into the "Sourcing" part of recuriting by doing enough homework to find the right people, write a great [Hello World](http://recruiterproject.org/blog/2014/02/06/hello-world/) introduction e-mail, and it will be easy.
+The problem is the way recruiting is done, not anything with the pool of available people. Put effort into the "Sourcing" part of recruiting by doing enough homework to find the right people, write a great [Hello World](http://recruiterproject.org/blog/2014/02/06/hello-world/) introduction e-mail, and it will be easy.
 
 People are not going to jump ship from their current job for a new one that is not both a good fit and a significant improvement from the one they have, so it is really only worth going after people that could be a good fit. (Another way of looking at this is that it may be worth being a little picker about the types of positions you agree to find candidates for. Great developers want great jobs at great companies.)
 
