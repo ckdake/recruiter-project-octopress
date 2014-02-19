@@ -4,7 +4,7 @@
   <title><![CDATA[The Recruiter Project]]></title>
   <link href="http://recruiterproject.org/atom.xml" rel="self"/>
   <link href="http://recruiterproject.org/"/>
-  <updated>2014-02-17T09:35:21-05:00</updated>
+  <updated>2014-02-19T11:19:00-05:00</updated>
   <id>http://recruiterproject.org/</id>
   <author>
     <name><![CDATA[The Recruiter Project]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Developer Shortage Lie]]></title>
+    <link href="http://recruiterproject.org/blog/2014/02/19/the-developer-shortage-lie/"/>
+    <updated>2014-02-19T09:55:57-05:00</updated>
+    <id>http://recruiterproject.org/blog/2014/02/19/the-developer-shortage-lie</id>
+    <content type="html"><![CDATA[<p>There is no shortage of qualified technical people for great jobs.</p>
+
+<p>While I did spend some time finding out <a href="http://recruiterproject.org/blog/2014/02/13/recruiters-in-big-companies/">how recruiters at big companies work</a> at <a href="http://strataconf.com/strata2014">Strata</a>, most of my time was spent in sessions. Everyone is hiring Data Scientists, so much that the last side of almost every talk included a &ldquo;We&rsquo;re Hiring!&rdquo; note. In many talks, there was a variety of &ldquo;Good Luck&rdquo; and &ldquo;Data Scientists are Unicorn&rdquo; sentiments.  This reflected the &ldquo;There are few Operations Engineers available&rdquo; sentiment from  <a href="http://velocityconf.com">Velocity</a> conferences I&rsquo;ve been to, the &ldquo;There are no Ruby on Rails Developers available&rdquo; sentiment from various Ruby conferences, etc.</p>
+
+<p>Sara Chipps wrote a great blog post: <a href="http://sarajchipps.com/post/75810450152/recruiting-there-is-no-such-thing-as-a-developer">Recruiting: There is no such thing as a developer shortage</a> and I 100% agree with her:</p>
+
+<blockquote><p>Hiring developers doesn’t have to be hard. While they are in demand, good employers are increasingly rare, and if you genuinely care about finding your developers and keeping them happy it will be easy to set yourself apart.</p></blockquote>
+
+<p>Go read that entire blog post, it&rsquo;s short and worth it.</p>
+
+<p>The problem is the way recruiting is done, not anything with the pool of available people. Put effort into the &ldquo;Sourcing&rdquo; part of recuriting by doing enough homework to find the right people, write a great <a href="http://recruiterproject.org/blog/2014/02/06/hello-world/">Hello World</a> introduction e-mail, and it will be easy.</p>
+
+<p>People are not going to jump ship from their current job for a new one that is not both a good fit and a significant improvement from the one they have, so it is really only worth going after people that could be a good fit. (Another way of looking at this is that it may be worth being a little picker about the types of positions you agree to find candidates for. Great developers want great jobs at great companies.)</p>
+
+<p>I have a pretty diverse background, but with a quick glance at my LinkedIn profile, GitHub portfolio, resume, etc, it should be obvious that I do not have any C# experience. Here is part of a message I got from a recruiter:</p>
+
+<blockquote><p>I came across your profile and thought you could be a great fit for a C# Software Engineer position in Norcross, GA. This position pays between $55 to $65/hour at an established banking software company. Please take a look at the description below and let me know what you think of this great opportunity.</p>
+
+<p><strong><em>We also offer a $500 bonus for any referral hire if you know anyone else who could be a good fit!</em></strong></p>
+
+<p>C# Software Engineer &ndash; Senior Role:</p>
+
+<p>Individual must have experience in multi-threaded applications, test driven development, OOD/OOA. Development experience in C#, but will consider any OO language (C++, etc).</p>
+
+<p>Enterprise application experience for a complex banking application.</p></blockquote>
+
+<p>I&rsquo;m not sure how they thought I would be a great fit, and the $500 bonus is a not-too-well-received bribe offer that makes me even less likely to read to the end. Convince me that I am a fit and I will reply. Some better examples I have received include:</p>
+
+<blockquote><p>You look awesome due to experience with Ruby, TDD, DevOps, and both front and back end development. It&rsquo;s very obvious that you are passionate about technology.</p>
+
+<p>We are actively trying to grow our Atlanta office and think you would be a good fit&hellip;for real.</p></blockquote>
+
+<p>and</p>
+
+<blockquote><p>I read your article on &ldquo;How to recruit developers away from Highgroove&rdquo;, so needless to say I thought it would be best to send you an email instead of call.</p>
+
+<p>I noticed you&rsquo;re into riding mountain bikes and the Bay area has tons of Mountains for you to check out :).  In any case, I was hoping to connect with you to get a better understanding of your longer term career goals and interests.  I was also hoping to get an understanding of where you see things going for yourself.</p></blockquote>
+
+<p>The technical talent is out there, and there are plenty of great fits for the position you are trying to fill. It is up to you to do the homework required to find the right ones, and that is definitely worth the time that it takes.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recruiters At Big Companies]]></title>
@@ -160,7 +207,7 @@
 
 <p>We&rsquo;ll be talking with Recruiters, Nerds, CEOs, VPs, Managers, etc, and posting semi-regular content to help everyone out.</p>
 
-<p>So fire up your RSS reader and subscribe, and send an e-mail over to <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#x63;&#x6b;&#100;&#x61;&#107;&#x65;&#x40;&#x63;&#107;&#x64;&#x61;&#107;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#99;&#107;&#x64;&#97;&#107;&#101;&#x40;&#x63;&#x6b;&#x64;&#x61;&#107;&#x65;&#46;&#99;&#111;&#109;</a> with any questions you&rsquo;d like answered!</p>
+<p>So fire up your RSS reader and subscribe, and send an e-mail over to <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x63;&#107;&#100;&#97;&#107;&#101;&#x40;&#99;&#x6b;&#100;&#x61;&#107;&#101;&#46;&#99;&#x6f;&#x6d;">&#99;&#107;&#x64;&#x61;&#107;&#101;&#64;&#x63;&#x6b;&#100;&#97;&#107;&#101;&#46;&#99;&#111;&#x6d;</a> with any questions you&rsquo;d like answered!</p>
 
 <p>Thanks for stopping by!</p>
 
