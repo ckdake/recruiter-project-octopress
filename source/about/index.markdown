@@ -18,7 +18,7 @@ If you'd like to chat over lunch somewhere in Atlanta, or via a G+ hangout, be i
 
 ### If You Are A Recruiter
 
-* What questions do you have developers?
+* What questions do you have for developers?
 * What do you wish developers knew about recruiters?
 * What is it like being a recruiter and trying to fill a position?
 * How are recruiters compensated?
