@@ -17,11 +17,13 @@ I recently received two such emails back-to-back:
 ![what the diff?](http://i.imgur.com/gKi9k3p.png?1)
 
 Now perhaps this company's need for filling its Cloud IT and Research seats with "talent IT professionals [sic]" is so urgent that this recruiter does not have time to write a personalized email to each developer he or she contacts, but I would wager that the fruit of said emails would be more replies and fewer blog posts. Not only was I bothered at work, I was bothered at work *twice* by virtually the same soulless email. The only impressions made by these emails are that
+
 - there are empty seats for this company that *urgently* need filling and
 - this recruiter is extremely lazy.
 
 This reflects poorly on both the company and the recruiter which provides neither with any gain. A recruiter for any company should strive for a few things:
- 1. Find fitting candidates for open roles
+
+1. Find fitting candidates for open roles
  2. Present the desirable qualities of the hiring company
  3. Appear informed of the role and the candidate so that (1) and (2) seem earnest.
 
