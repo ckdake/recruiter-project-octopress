@@ -28,7 +28,3 @@ This reflects poorly on both the company and the recruiter which provides neithe
  3. Appear informed of the role and the candidate so that (1) and (2) seem earnest.
 
 An automated email accomplishes none of these goals and wastes the time of all three parties (while only appearing to save the time of a single party).
-
-***
-![pwnela](http://www.gravatar.com/avatar/aadeae78f70b9b2ef997b5c6df31dba5?s=20)
-__Pamela__ is a developer at Big Nerd Ranch and has a deep abiding appreciation of well-written emails.
