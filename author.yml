@@ -9,4 +9,10 @@ pwnela:
     twitter: pwnela
     email: pwnela@gmail.com
     blog:
-    description: "Developer at Big Nerd Ranch. <br />Deep abiding appreciation of well-written emails."
+    description: 'Developer at <a href="http://www.bignerdranch.com/">Big Nerd Ranch</a>. <br />Deep abiding appreciation of well-written emails.'
+awaller:
+    name: Ari Waller
+    twitter: ariwaller
+    email: awaller@thompsontechnologies.com
+    blog:
+    description: 'Ari started his career at <a href="http://www.thompsontechnologies.com">Thompson Technologies</a> as a Technical Recruiter nearly 18 years, and is currently the Vice President of Recruiting and Sourcing.  Despite the fancy title, Ari is passionate about technical recruiting, and takes a very "hands on approach" in our quest to effectively attract top IT Talent for clients.'
