@@ -16,3 +16,9 @@ awaller:
     email: awaller@thompsontechnologies.com
     blog:
     description: 'Ari started his career at <a href="http://www.thompsontechnologies.com">Thompson Technologies</a> as a Technical Recruiter nearly 18 years ago, and is currently the Vice President of Recruiting and Sourcing.  Despite the fancy title, Ari is passionate about technical recruiting, and takes a very "hands on approach" in the quest to effectively attract top IT Talent.'
+jsmith:
+    name: Jacob Smith
+    twitter: jacobsjobs
+    email: js1@vpstaff.com
+    blog:
+    description: 'Technical Recruiter, currently in Atlanta, GA'
